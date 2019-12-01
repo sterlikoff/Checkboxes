@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Checkboxes</string>
+    <string name="amountLabel">Введите сумму:</string>
+    <string name="infoLabel">Информация об оплате:</string>
+    <string name="okLabel">OK</string>
+    <string name="cardTypeLabel">С банковской карты</string>
+    <string name="phoneTypeLabel">С мобильного телефона</string>
+    <string name="addressTypeLabel">Наличными по адресу</string>
+    <string name="successMessage">Оплата %1$d принята</string>
+</resources>
